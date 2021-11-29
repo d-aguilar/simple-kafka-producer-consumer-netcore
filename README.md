@@ -1,4 +1,4 @@
-# Simple Exmaple Kafka Producer/Consumer with netcore
+# Simple Kafka Producer/Consumer with netcore
 
 ![example workflow](https://github.com/d-aguilar/simple-kafka-producer-consumer-netcore/actions/workflows/dotnet.yml/badge.svg)
 
